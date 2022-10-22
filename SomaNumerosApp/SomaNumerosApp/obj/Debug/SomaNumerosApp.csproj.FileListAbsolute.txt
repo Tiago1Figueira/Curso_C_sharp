@@ -1,0 +1,5 @@
+C:\desenv\csharp\Fatec\SomaNumerosApp\SomaNumerosApp\bin\Debug\SomaNumerosApp.exe.config
+C:\desenv\csharp\Fatec\SomaNumerosApp\SomaNumerosApp\bin\Debug\SomaNumerosApp.exe
+C:\desenv\csharp\Fatec\SomaNumerosApp\SomaNumerosApp\bin\Debug\SomaNumerosApp.pdb
+C:\desenv\csharp\Fatec\SomaNumerosApp\SomaNumerosApp\obj\Debug\SomaNumerosApp.exe
+C:\desenv\csharp\Fatec\SomaNumerosApp\SomaNumerosApp\obj\Debug\SomaNumerosApp.pdb

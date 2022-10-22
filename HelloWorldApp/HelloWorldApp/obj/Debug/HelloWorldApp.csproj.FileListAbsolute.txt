@@ -1,0 +1,6 @@
+C:\desenv\csharp\Fatec\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\desenv\csharp\Fatec\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\desenv\csharp\Fatec\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\desenv\csharp\Fatec\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+C:\desenv\csharp\Fatec\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\desenv\csharp\Fatec\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
