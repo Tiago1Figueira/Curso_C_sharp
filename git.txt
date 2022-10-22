@@ -1,0 +1,9 @@
+git init
+git checkout -b "nova branch " 
+git checkout "nome branch existente"
+
+git add .
+git status
+git commit -m "msg"
+git push origin novo-botao(branch)
+git status
