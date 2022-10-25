@@ -7,3 +7,9 @@ git status
 git commit -m "msg"
 git push origin novo-botao(branch)
 git status
+
+git commit -a (coloca absolutamente todos os arquivos pra serem enviados via push)
+
+git pull origin main (atualiza a main usando o repo remoto)
+git pull main 
+
