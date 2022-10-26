@@ -1,7 +1,7 @@
 ﻿
 namespace mediasapp
 {
-    partial class Form1
+    partial class txtCalculoMedias
     {
         /// <summary>
         ///  Required designer variable.
@@ -37,10 +37,10 @@ namespace mediasapp
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.txtresultado = new System.Windows.Forms.TextBox();
-            this.btnmedia_aritmetica = new System.Windows.Forms.Button();
+            this.txtResultado = new System.Windows.Forms.TextBox();
+            this.btnMediaAritmetica = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.btnmedia_geometrica = new System.Windows.Forms.Button();
+            this.btnMediaPonderada = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -108,30 +108,30 @@ namespace mediasapp
             this.label4.TabIndex = 7;
             this.label4.Text = "Nota4";
             // 
-            // txtresultado
+            // txtResultado
             // 
-            this.txtresultado.Font = new System.Drawing.Font("Segoe UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.txtresultado.Location = new System.Drawing.Point(6, 98);
-            this.txtresultado.Name = "txtresultado";
-            this.txtresultado.ReadOnly = true;
-            this.txtresultado.Size = new System.Drawing.Size(287, 61);
-            this.txtresultado.TabIndex = 10;
+            this.txtResultado.Font = new System.Drawing.Font("Segoe UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtResultado.Location = new System.Drawing.Point(6, 98);
+            this.txtResultado.Name = "txtResultado";
+            this.txtResultado.ReadOnly = true;
+            this.txtResultado.Size = new System.Drawing.Size(287, 61);
+            this.txtResultado.TabIndex = 10;
             // 
-            // btnmedia_aritmetica
+            // btnMediaAritmetica
             // 
-            this.btnmedia_aritmetica.Location = new System.Drawing.Point(6, 35);
-            this.btnmedia_aritmetica.Name = "btnmedia_aritmetica";
-            this.btnmedia_aritmetica.Size = new System.Drawing.Size(121, 44);
-            this.btnmedia_aritmetica.TabIndex = 11;
-            this.btnmedia_aritmetica.Text = "Média Aritmética";
-            this.btnmedia_aritmetica.UseVisualStyleBackColor = true;
-            this.btnmedia_aritmetica.Click += new System.EventHandler(this.button2_Click);
+            this.btnMediaAritmetica.Location = new System.Drawing.Point(6, 35);
+            this.btnMediaAritmetica.Name = "btnMediaAritmetica";
+            this.btnMediaAritmetica.Size = new System.Drawing.Size(121, 44);
+            this.btnMediaAritmetica.TabIndex = 11;
+            this.btnMediaAritmetica.Text = "Média Aritmética";
+            this.btnMediaAritmetica.UseVisualStyleBackColor = true;
+            this.btnMediaAritmetica.Click += new System.EventHandler(this.btnMediaAritmetica_Click);
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.btnmedia_geometrica);
-            this.groupBox1.Controls.Add(this.btnmedia_aritmetica);
-            this.groupBox1.Controls.Add(this.txtresultado);
+            this.groupBox1.Controls.Add(this.btnMediaPonderada);
+            this.groupBox1.Controls.Add(this.btnMediaAritmetica);
+            this.groupBox1.Controls.Add(this.txtResultado);
             this.groupBox1.Location = new System.Drawing.Point(12, 192);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(316, 165);
@@ -139,17 +139,17 @@ namespace mediasapp
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Informe o que quer:";
             // 
-            // btnmedia_geometrica
+            // btnMediaPonderada
             // 
-            this.btnmedia_geometrica.Location = new System.Drawing.Point(172, 35);
-            this.btnmedia_geometrica.Name = "btnmedia_geometrica";
-            this.btnmedia_geometrica.Size = new System.Drawing.Size(121, 44);
-            this.btnmedia_geometrica.TabIndex = 12;
-            this.btnmedia_geometrica.Text = "Média Geométrica";
-            this.btnmedia_geometrica.UseVisualStyleBackColor = true;
-            this.btnmedia_geometrica.Click += new System.EventHandler(this.button4_Click);
+            this.btnMediaPonderada.Location = new System.Drawing.Point(172, 35);
+            this.btnMediaPonderada.Name = "btnMediaPonderada";
+            this.btnMediaPonderada.Size = new System.Drawing.Size(121, 44);
+            this.btnMediaPonderada.TabIndex = 12;
+            this.btnMediaPonderada.Text = "Média Ponderada";
+            this.btnMediaPonderada.UseVisualStyleBackColor = true;
+            this.btnMediaPonderada.Click += new System.EventHandler(this.btnMediaPonderada_Click);
             // 
-            // Form1
+            // txtCalculoMedias
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -163,7 +163,7 @@ namespace mediasapp
             this.Controls.Add(this.txtnota4);
             this.Controls.Add(this.txtnota1);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "txtCalculoMedias";
             this.Text = "Cálculo de Médias";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -182,10 +182,10 @@ namespace mediasapp
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox txtresultado;
-        private System.Windows.Forms.Button btnmedia_aritmetica;
+        private System.Windows.Forms.TextBox txtResultado;
+        private System.Windows.Forms.Button btnMediaAritmetica;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Button btnmedia_geometrica;
+        private System.Windows.Forms.Button btnMediaPonderada;
     }
 }
 

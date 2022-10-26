@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TIAGO\\source\\repos\\mediasapp\\mediasapp\\mediasapp.csproj",
+      "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios9_a_10_mediasapp\\mediasapp\\mediasapp.csproj",
       "projectName": "mediasapp",
-      "projectPath": "C:\\Users\\TIAGO\\source\\repos\\mediasapp\\mediasapp\\mediasapp.csproj",
+      "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios9_a_10_mediasapp\\mediasapp\\mediasapp.csproj",
       "packagesPath": "C:\\Users\\TIAGO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TIAGO\\source\\repos\\mediasapp\\mediasapp\\obj\\",
+      "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios9_a_10_mediasapp\\mediasapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TIAGO\\AppData\\Roaming\\NuGet\\NuGet.Config",

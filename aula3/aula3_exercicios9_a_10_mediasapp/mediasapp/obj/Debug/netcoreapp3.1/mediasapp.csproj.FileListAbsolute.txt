@@ -1,0 +1,16 @@
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\bin\Debug\netcoreapp3.1\mediasapp.exe
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\bin\Debug\netcoreapp3.1\mediasapp.deps.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\bin\Debug\netcoreapp3.1\mediasapp.runtimeconfig.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\bin\Debug\netcoreapp3.1\mediasapp.runtimeconfig.dev.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\bin\Debug\netcoreapp3.1\mediasapp.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\bin\Debug\netcoreapp3.1\mediasapp.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.csproj.AssemblyReference.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.txtCalculoMedias.resources
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.csproj.GenerateResource.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.AssemblyInfoInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.AssemblyInfo.cs
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\aula3_exercicios9_a_10_mediasapp\mediasapp\obj\Debug\netcoreapp3.1\mediasapp.genruntimeconfig.cache
