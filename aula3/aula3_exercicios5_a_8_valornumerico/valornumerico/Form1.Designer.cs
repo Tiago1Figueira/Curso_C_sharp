@@ -1,7 +1,7 @@
 ﻿
 namespace valornumerico
 {
-    partial class Form1
+    partial class txtCalculoValoresNumericos
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,56 +29,56 @@ namespace valornumerico
         /// </summary>
         private void InitializeComponent()
         {
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtCalcularNumero = new System.Windows.Forms.GroupBox();
             this.txt150 = new System.Windows.Forms.TextBox();
             this.txt100 = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.txt50 = new System.Windows.Forms.TextBox();
             this.txt25 = new System.Windows.Forms.TextBox();
-            this.txttriplo = new System.Windows.Forms.TextBox();
+            this.txtTriplo = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
-            this.bntprocessar = new System.Windows.Forms.Button();
+            this.bntProcessar = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.txtanterior = new System.Windows.Forms.TextBox();
-            this.txtposterior = new System.Windows.Forms.TextBox();
-            this.txtdobro = new System.Windows.Forms.TextBox();
+            this.txtAnterior = new System.Windows.Forms.TextBox();
+            this.txtPosterior = new System.Windows.Forms.TextBox();
+            this.txtDobro = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.txtnumero = new System.Windows.Forms.TextBox();
+            this.txtNumero = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.groupBox1.SuspendLayout();
+            this.txtCalcularNumero.SuspendLayout();
             this.SuspendLayout();
             // 
-            // groupBox1
+            // txtCalcularNumero
             // 
-            this.groupBox1.Controls.Add(this.txt150);
-            this.groupBox1.Controls.Add(this.txt100);
-            this.groupBox1.Controls.Add(this.label9);
-            this.groupBox1.Controls.Add(this.txt50);
-            this.groupBox1.Controls.Add(this.txt25);
-            this.groupBox1.Controls.Add(this.txttriplo);
-            this.groupBox1.Controls.Add(this.label8);
-            this.groupBox1.Controls.Add(this.bntprocessar);
-            this.groupBox1.Controls.Add(this.label7);
-            this.groupBox1.Controls.Add(this.label6);
-            this.groupBox1.Controls.Add(this.txtanterior);
-            this.groupBox1.Controls.Add(this.txtposterior);
-            this.groupBox1.Controls.Add(this.txtdobro);
-            this.groupBox1.Controls.Add(this.label5);
-            this.groupBox1.Controls.Add(this.label4);
-            this.groupBox1.Controls.Add(this.label2);
-            this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Controls.Add(this.txtnumero);
-            this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 12);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(279, 375);
-            this.groupBox1.TabIndex = 0;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "CALCULAR NÚMERO";
+            this.txtCalcularNumero.Controls.Add(this.txt150);
+            this.txtCalcularNumero.Controls.Add(this.txt100);
+            this.txtCalcularNumero.Controls.Add(this.label9);
+            this.txtCalcularNumero.Controls.Add(this.txt50);
+            this.txtCalcularNumero.Controls.Add(this.txt25);
+            this.txtCalcularNumero.Controls.Add(this.txtTriplo);
+            this.txtCalcularNumero.Controls.Add(this.label8);
+            this.txtCalcularNumero.Controls.Add(this.bntProcessar);
+            this.txtCalcularNumero.Controls.Add(this.label7);
+            this.txtCalcularNumero.Controls.Add(this.label6);
+            this.txtCalcularNumero.Controls.Add(this.txtAnterior);
+            this.txtCalcularNumero.Controls.Add(this.txtPosterior);
+            this.txtCalcularNumero.Controls.Add(this.txtDobro);
+            this.txtCalcularNumero.Controls.Add(this.label5);
+            this.txtCalcularNumero.Controls.Add(this.label4);
+            this.txtCalcularNumero.Controls.Add(this.label2);
+            this.txtCalcularNumero.Controls.Add(this.label3);
+            this.txtCalcularNumero.Controls.Add(this.txtNumero);
+            this.txtCalcularNumero.Controls.Add(this.label1);
+            this.txtCalcularNumero.Location = new System.Drawing.Point(12, 12);
+            this.txtCalcularNumero.Name = "txtCalcularNumero";
+            this.txtCalcularNumero.Size = new System.Drawing.Size(279, 375);
+            this.txtCalcularNumero.TabIndex = 0;
+            this.txtCalcularNumero.TabStop = false;
+            this.txtCalcularNumero.Text = "CALCULAR NÚMERO";
             // 
             // txt150
             // 
@@ -112,7 +112,6 @@ namespace valornumerico
             this.txt50.ReadOnly = true;
             this.txt50.Size = new System.Drawing.Size(186, 23);
             this.txt50.TabIndex = 15;
-            this.txt50.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // txt25
             // 
@@ -122,13 +121,13 @@ namespace valornumerico
             this.txt25.Size = new System.Drawing.Size(186, 23);
             this.txt25.TabIndex = 16;
             // 
-            // txttriplo
+            // txtTriplo
             // 
-            this.txttriplo.Location = new System.Drawing.Point(74, 199);
-            this.txttriplo.Name = "txttriplo";
-            this.txttriplo.ReadOnly = true;
-            this.txttriplo.Size = new System.Drawing.Size(186, 23);
-            this.txttriplo.TabIndex = 17;
+            this.txtTriplo.Location = new System.Drawing.Point(74, 199);
+            this.txtTriplo.Name = "txtTriplo";
+            this.txtTriplo.ReadOnly = true;
+            this.txtTriplo.Size = new System.Drawing.Size(186, 23);
+            this.txtTriplo.TabIndex = 17;
             // 
             // label8
             // 
@@ -139,14 +138,15 @@ namespace valornumerico
             this.label8.TabIndex = 14;
             this.label8.Text = "25%";
             // 
-            // bntprocessar
+            // bntProcessar
             // 
-            this.bntprocessar.Location = new System.Drawing.Point(74, 67);
-            this.bntprocessar.Name = "bntprocessar";
-            this.bntprocessar.Size = new System.Drawing.Size(183, 23);
-            this.bntprocessar.TabIndex = 6;
-            this.bntprocessar.Text = "Processar";
-            this.bntprocessar.UseVisualStyleBackColor = true;
+            this.bntProcessar.Location = new System.Drawing.Point(74, 67);
+            this.bntProcessar.Name = "bntProcessar";
+            this.bntProcessar.Size = new System.Drawing.Size(183, 23);
+            this.bntProcessar.TabIndex = 6;
+            this.bntProcessar.Text = "Processar";
+            this.bntProcessar.UseVisualStyleBackColor = true;
+            this.bntProcessar.Click += new System.EventHandler(this.bntProcessar_Click);
             // 
             // label7
             // 
@@ -166,30 +166,29 @@ namespace valornumerico
             this.label6.TabIndex = 12;
             this.label6.Text = "100%";
             // 
-            // txtanterior
+            // txtAnterior
             // 
-            this.txtanterior.Location = new System.Drawing.Point(74, 100);
-            this.txtanterior.Name = "txtanterior";
-            this.txtanterior.ReadOnly = true;
-            this.txtanterior.Size = new System.Drawing.Size(186, 23);
-            this.txtanterior.TabIndex = 11;
-            this.txtanterior.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
+            this.txtAnterior.Location = new System.Drawing.Point(74, 100);
+            this.txtAnterior.Name = "txtAnterior";
+            this.txtAnterior.ReadOnly = true;
+            this.txtAnterior.Size = new System.Drawing.Size(186, 23);
+            this.txtAnterior.TabIndex = 11;
             // 
-            // txtposterior
+            // txtPosterior
             // 
-            this.txtposterior.Location = new System.Drawing.Point(74, 133);
-            this.txtposterior.Name = "txtposterior";
-            this.txtposterior.ReadOnly = true;
-            this.txtposterior.Size = new System.Drawing.Size(186, 23);
-            this.txtposterior.TabIndex = 10;
+            this.txtPosterior.Location = new System.Drawing.Point(74, 133);
+            this.txtPosterior.Name = "txtPosterior";
+            this.txtPosterior.ReadOnly = true;
+            this.txtPosterior.Size = new System.Drawing.Size(186, 23);
+            this.txtPosterior.TabIndex = 10;
             // 
-            // txtdobro
+            // txtDobro
             // 
-            this.txtdobro.Location = new System.Drawing.Point(74, 166);
-            this.txtdobro.Name = "txtdobro";
-            this.txtdobro.ReadOnly = true;
-            this.txtdobro.Size = new System.Drawing.Size(186, 23);
-            this.txtdobro.TabIndex = 9;
+            this.txtDobro.Location = new System.Drawing.Point(74, 166);
+            this.txtDobro.Name = "txtDobro";
+            this.txtDobro.ReadOnly = true;
+            this.txtDobro.Size = new System.Drawing.Size(186, 23);
+            this.txtDobro.TabIndex = 9;
             // 
             // label5
             // 
@@ -227,12 +226,12 @@ namespace valornumerico
             this.label3.TabIndex = 5;
             this.label3.Text = "Anterior";
             // 
-            // txtnumero
+            // txtNumero
             // 
-            this.txtnumero.Location = new System.Drawing.Point(74, 34);
-            this.txtnumero.Name = "txtnumero";
-            this.txtnumero.Size = new System.Drawing.Size(183, 23);
-            this.txtnumero.TabIndex = 1;
+            this.txtNumero.Location = new System.Drawing.Point(74, 34);
+            this.txtNumero.Name = "txtNumero";
+            this.txtNumero.Size = new System.Drawing.Size(183, 23);
+            this.txtNumero.TabIndex = 1;
             // 
             // label1
             // 
@@ -243,36 +242,36 @@ namespace valornumerico
             this.label1.TabIndex = 0;
             this.label1.Text = "Número";
             // 
-            // Form1
+            // txtCalculoValoresNumericos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(325, 413);
-            this.Controls.Add(this.groupBox1);
-            this.Name = "Form1";
+            this.Controls.Add(this.txtCalcularNumero);
+            this.Name = "txtCalculoValoresNumericos";
             this.Text = "Cálculo de valores numéricos";
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
+            this.txtCalcularNumero.ResumeLayout(false);
+            this.txtCalcularNumero.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Button bntprocessar;
+        private System.Windows.Forms.GroupBox txtCalcularNumero;
+        private System.Windows.Forms.Button bntProcessar;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox txtnumero;
+        private System.Windows.Forms.TextBox txtNumero;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtanterior;
-        private System.Windows.Forms.TextBox txtposterior;
-        private System.Windows.Forms.TextBox txtdobro;
+        private System.Windows.Forms.TextBox txtAnterior;
+        private System.Windows.Forms.TextBox txtPosterior;
+        private System.Windows.Forms.TextBox txtDobro;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txt50;
         private System.Windows.Forms.TextBox txt25;
-        private System.Windows.Forms.TextBox txttriplo;
+        private System.Windows.Forms.TextBox txtTriplo;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;

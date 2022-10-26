@@ -5,7 +5,6 @@ C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\b
 C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\bin\Debug\netcoreapp3.1\valornumerico.dll
 C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\bin\Debug\netcoreapp3.1\valornumerico.pdb
 C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\obj\Debug\netcoreapp3.1\valornumerico.csproj.AssemblyReference.cache
-C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\obj\Debug\netcoreapp3.1\valornumerico.Form1.resources
 C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\obj\Debug\netcoreapp3.1\valornumerico.csproj.GenerateResource.cache
 C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\obj\Debug\netcoreapp3.1\valornumerico.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\obj\Debug\netcoreapp3.1\valornumerico.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\o
 C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\obj\Debug\netcoreapp3.1\valornumerico.dll
 C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\obj\Debug\netcoreapp3.1\valornumerico.pdb
 C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\obj\Debug\netcoreapp3.1\valornumerico.genruntimeconfig.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula3\valornumerico\valornumerico\obj\Debug\netcoreapp3.1\valornumerico.txtCalculoValoresNumericos.resources
