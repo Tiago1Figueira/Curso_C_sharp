@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios5_a_8_valornumerico\\valornumerico\\valornumerico.csproj",
-      "projectName": "valornumerico",
-      "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios5_a_8_valornumerico\\valornumerico\\valornumerico.csproj",
+      "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicio1_soma_numero\\aula3_exercicio1_soma\\aula3_exercicio1_soma\\aula3_exercicio1_soma.csproj",
+      "projectName": "aula3_exercicio1_soma",
+      "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicio1_soma_numero\\aula3_exercicio1_soma\\aula3_exercicio1_soma\\aula3_exercicio1_soma.csproj",
       "packagesPath": "C:\\Users\\TIAGO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios5_a_8_valornumerico\\valornumerico\\obj\\",
+      "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicio1_soma_numero\\aula3_exercicio1_soma\\aula3_exercicio1_soma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TIAGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
