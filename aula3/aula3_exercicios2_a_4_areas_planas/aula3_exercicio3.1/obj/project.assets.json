@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios2_a_4_areas\\aula3_exercicio3.1\\aula3_exercicio3.1.csproj",
+      "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios2_a_4_areas_planas\\aula3_exercicio3.1\\aula3_exercicio3.1.csproj",
       "projectName": "aula3_exercicio3.1",
-      "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios2_a_4_areas\\aula3_exercicio3.1\\aula3_exercicio3.1.csproj",
+      "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios2_a_4_areas_planas\\aula3_exercicio3.1\\aula3_exercicio3.1.csproj",
       "packagesPath": "C:\\Users\\TIAGO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios2_a_4_areas\\aula3_exercicio3.1\\obj\\",
+      "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula3\\aula3_exercicios2_a_4_areas_planas\\aula3_exercicio3.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TIAGO\\AppData\\Roaming\\NuGet\\NuGet.Config",

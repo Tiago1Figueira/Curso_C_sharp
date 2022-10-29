@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aula3_exercicio1_soma_numero/1.0.0": {
+        "runtime": {
+          "aula3_exercicio1_soma_numero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula3_exercicio1_soma_numero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

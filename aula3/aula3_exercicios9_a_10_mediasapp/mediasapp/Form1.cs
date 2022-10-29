@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace mediasapp
 {
-    public partial class txtCalculoMedias : Form
+    public partial class Form1 : Form
     {
-        public txtCalculoMedias()
+        public Form1()
         {
             InitializeComponent();
         }
@@ -28,7 +28,6 @@ namespace mediasapp
 
             resultado = (n1 + n2 + n3 + n4) / 4;
             txtResultado.Text = resultado.ToString();
-
         }
 
         private void btnMediaPonderada_Click(object sender, EventArgs e)
@@ -45,3 +44,4 @@ namespace mediasapp
         }
     }
 }
+

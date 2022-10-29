@@ -1,7 +1,7 @@
 ﻿
 namespace mediasapp
 {
-    partial class txtCalculoMedias
+    partial class Form1
     {
         /// <summary>
         ///  Required designer variable.
@@ -149,7 +149,7 @@ namespace mediasapp
             this.btnMediaPonderada.UseVisualStyleBackColor = true;
             this.btnMediaPonderada.Click += new System.EventHandler(this.btnMediaPonderada_Click);
             // 
-            // txtCalculoMedias
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -163,7 +163,7 @@ namespace mediasapp
             this.Controls.Add(this.txtnota4);
             this.Controls.Add(this.txtnota1);
             this.Controls.Add(this.label1);
-            this.Name = "txtCalculoMedias";
+            this.Name = "Form1";
             this.Text = "Cálculo de Médias";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
