@@ -19,7 +19,7 @@ namespace aula4_exercicio7
 
         private void btnParImparPositivoNegativo_Click(object sender, EventArgs e)
         {
-            double numero = Convert.ToDouble(txtNumero.Text);
+           int numero = Convert.ToInt32(txtNumero.Text);
 
             if (numero > 0 && numero % 2 == 0)
             {
