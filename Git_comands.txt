@@ -1,0 +1,24 @@
+git init
+
+git add .
+git status
+git commit -m "msg"
+git push origin nome branch
+git status
+
+- git branch
+(mostra todas as branches criadas)
+- git checkout -b "nova branch " 
+(sai da branch atual e vai para a q está sendo criada)
+- git checkout "nome branch existente"
+(sai da branch atual e vai pra qual vc quer- faça isso na pasta local onde está a branch usada)
+- git branch -D "nomebranchusada"
+(deletará a branch usada do repo local)
+- git pull 
+(tras do repo remoto pro local)
+- git commit -a 
+(coloca absolutamente todos os arquivos pra serem enviados via push)
+- git pull origin main 
+(atualiza a main local usando o repo remoto)
+
+
