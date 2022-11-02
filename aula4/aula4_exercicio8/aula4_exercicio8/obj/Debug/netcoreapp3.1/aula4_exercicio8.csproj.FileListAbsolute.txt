@@ -1,0 +1,16 @@
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\bin\Debug\netcoreapp3.1\aula4_exercicio8.exe
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\bin\Debug\netcoreapp3.1\aula4_exercicio8.deps.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\bin\Debug\netcoreapp3.1\aula4_exercicio8.runtimeconfig.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\bin\Debug\netcoreapp3.1\aula4_exercicio8.runtimeconfig.dev.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\bin\Debug\netcoreapp3.1\aula4_exercicio8.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\bin\Debug\netcoreapp3.1\aula4_exercicio8.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.csproj.AssemblyReference.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.Form1.resources
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.csproj.GenerateResource.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.AssemblyInfoInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.AssemblyInfo.cs
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio8\aula4_exercicio8\obj\Debug\netcoreapp3.1\aula4_exercicio8.genruntimeconfig.cache
