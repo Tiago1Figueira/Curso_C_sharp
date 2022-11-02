@@ -1,8 +1,8 @@
 git init
 
 git add .
-git add "nomepasta"
-(add uma pasta somente)
+git add nomePasta.txt
+(add uma pasta somente, mas tem que estar no diretório da pasta em questão)
 git status
 git commit -m "msg"
 git push origin nome branch
