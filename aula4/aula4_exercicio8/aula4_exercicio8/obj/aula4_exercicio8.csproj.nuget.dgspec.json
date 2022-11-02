@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4_exercicio8\\aula4_exercicio8\\aula4_exercicio8.csproj": {}
+    "C:\\Users\\TIAGO\\Downloads\\Curso_C_sharp-main\\aula4\\aula4_exercicio8\\aula4_exercicio8\\aula4_exercicio8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4_exercicio8\\aula4_exercicio8\\aula4_exercicio8.csproj": {
+    "C:\\Users\\TIAGO\\Downloads\\Curso_C_sharp-main\\aula4\\aula4_exercicio8\\aula4_exercicio8\\aula4_exercicio8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4_exercicio8\\aula4_exercicio8\\aula4_exercicio8.csproj",
+        "projectUniqueName": "C:\\Users\\TIAGO\\Downloads\\Curso_C_sharp-main\\aula4\\aula4_exercicio8\\aula4_exercicio8\\aula4_exercicio8.csproj",
         "projectName": "aula4_exercicio8",
-        "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4_exercicio8\\aula4_exercicio8\\aula4_exercicio8.csproj",
+        "projectPath": "C:\\Users\\TIAGO\\Downloads\\Curso_C_sharp-main\\aula4\\aula4_exercicio8\\aula4_exercicio8\\aula4_exercicio8.csproj",
         "packagesPath": "C:\\Users\\TIAGO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4_exercicio8\\aula4_exercicio8\\obj\\",
+        "outputPath": "C:\\Users\\TIAGO\\Downloads\\Curso_C_sharp-main\\aula4\\aula4_exercicio8\\aula4_exercicio8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TIAGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
