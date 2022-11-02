@@ -1,0 +1,16 @@
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\bin\Debug\netcoreapp3.1\aula4_exercicio10.exe
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\bin\Debug\netcoreapp3.1\aula4_exercicio10.deps.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\bin\Debug\netcoreapp3.1\aula4_exercicio10.runtimeconfig.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\bin\Debug\netcoreapp3.1\aula4_exercicio10.runtimeconfig.dev.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\bin\Debug\netcoreapp3.1\aula4_exercicio10.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\bin\Debug\netcoreapp3.1\aula4_exercicio10.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.csproj.AssemblyReference.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.Form1.resources
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.csproj.GenerateResource.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.AssemblyInfoInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.AssemblyInfo.cs
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula4\aula4_exercicio10\aula4_exercicio10\obj\Debug\netcoreapp3.1\aula4_exercicio10.genruntimeconfig.cache

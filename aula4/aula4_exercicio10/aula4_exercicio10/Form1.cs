@@ -17,5 +17,28 @@ namespace aula4_exercicio10
             InitializeComponent();
         }
 
+        private void btnProcessar_Click(object sender, EventArgs e)
+        {
+            double nota1 = Convert.ToDouble(txtNota1.Text);
+            double nota2 = Convert.ToDouble(txtNota2.Text);
+            double nota3 = Convert.ToDouble(txtNota3.Text);
+            double nota4 = Convert.ToDouble(txtNota4.Text);
+
+            double resultado;
+
+            resultado = (nota1 + nota2 + nota3 + nota4) / 4;
+
+            txtResultado.Text = resultado.ToString();
+
+            if (resultado >= 6)
+            {
+                MessageBox.Show("Aluno Aprovado!");
+            }
+            else
+            {
+                MessageBox.Show("Aluno Reprovado!");
+            }
+
+        }
     }
 }
