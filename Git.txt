@@ -1,8 +1,10 @@
 git init
 
 git add .
-git add nomePasta.txt
-(add uma pasta somente, mas tem que estar no diretório da pasta em questão)
+git add nomePasta/
+(add uma pasta somente)
+git add nomeArquivo.txt
+(add um arquivo específico mas tem que estar no diretório da pasta em questão e add a extensão dele)
 git status
 git commit -m "msg"
 git push origin nome branch
