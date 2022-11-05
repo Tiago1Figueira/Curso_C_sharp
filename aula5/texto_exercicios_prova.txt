@@ -1,0 +1,9 @@
+01) Faça um programa que leia o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se ela poderá ou não votar no ano digitado no campo atual. Regra: Idade igual ou superior a 16 anos.
+
+02) Ler o nome de 2 times e o número de gols marcados na partida (para cada time). Escrever o nome do vencedor. Caso não haja vencedor deverá ser apresentada a palavra EMPATE.
+
+03) Faça um programa para ler o número total de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o porcentual que cada um representa em relação ao total de eleitores.
+
+04) Faça um programa que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
+
+05) As peras custam R$ 1,50 cada se forem compradas menos de uma dúzia, e R$ 1,00 se forem compradas pelo menos 12. Faça um programa que leia o número de peras compradas, calcule e escreva o custo total da compra.
