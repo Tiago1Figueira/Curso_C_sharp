@@ -82,6 +82,7 @@ namespace aula5_exercicio1
             // 
             this.txtResultado.Location = new System.Drawing.Point(138, 130);
             this.txtResultado.Name = "txtResultado";
+            this.txtResultado.ReadOnly = true;
             this.txtResultado.Size = new System.Drawing.Size(148, 29);
             this.txtResultado.TabIndex = 3;
             // 

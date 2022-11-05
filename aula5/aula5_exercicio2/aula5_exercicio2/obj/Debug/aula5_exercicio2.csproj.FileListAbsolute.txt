@@ -1,0 +1,10 @@
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\bin\Debug\aula5_exercicio2.exe.config
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\bin\Debug\aula5_exercicio2.exe
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\bin\Debug\aula5_exercicio2.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\obj\Debug\aula5_exercicio2.csproj.AssemblyReference.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\obj\Debug\aula5_exercicio2.Form1.resources
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\obj\Debug\aula5_exercicio2.Properties.Resources.resources
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\obj\Debug\aula5_exercicio2.csproj.GenerateResource.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\obj\Debug\aula5_exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\obj\Debug\aula5_exercicio2.exe
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula5\aula5_exercicio2\aula5_exercicio2\obj\Debug\aula5_exercicio2.pdb
