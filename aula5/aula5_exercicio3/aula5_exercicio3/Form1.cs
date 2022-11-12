@@ -30,14 +30,7 @@ namespace aula5_exercicio3
 
             txtValidos1.Text = validos.ToString();
             txtNulos1.Text = nulos.ToString();
-            txtBrancos1.Text = brancos.ToStri50ng();
-
-
-
-
-
-
-
+            txtBrancos1.Text = brancos.ToString();
 
         }
     }

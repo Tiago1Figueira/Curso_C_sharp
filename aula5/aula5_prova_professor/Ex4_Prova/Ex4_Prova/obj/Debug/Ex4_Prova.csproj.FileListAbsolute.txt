@@ -1,0 +1,8 @@
+C:\desenv\csharp\Fatec\Ex4_Prova\Ex4_Prova\bin\Debug\Ex4_Prova.exe.config
+C:\desenv\csharp\Fatec\Ex4_Prova\Ex4_Prova\bin\Debug\Ex4_Prova.exe
+C:\desenv\csharp\Fatec\Ex4_Prova\Ex4_Prova\bin\Debug\Ex4_Prova.pdb
+C:\desenv\csharp\Fatec\Ex4_Prova\Ex4_Prova\obj\Debug\Ex4_Prova.Form1.resources
+C:\desenv\csharp\Fatec\Ex4_Prova\Ex4_Prova\obj\Debug\Ex4_Prova.Properties.Resources.resources
+C:\desenv\csharp\Fatec\Ex4_Prova\Ex4_Prova\obj\Debug\Ex4_Prova.csproj.GenerateResource.Cache
+C:\desenv\csharp\Fatec\Ex4_Prova\Ex4_Prova\obj\Debug\Ex4_Prova.exe
+C:\desenv\csharp\Fatec\Ex4_Prova\Ex4_Prova\obj\Debug\Ex4_Prova.pdb

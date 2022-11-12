@@ -1,0 +1,5 @@
+C:\desenv\csharp\Fatec\Ex31_Repeticao\Ex31_Repeticao\bin\Debug\Ex31_Repeticao.exe.config
+C:\desenv\csharp\Fatec\Ex31_Repeticao\Ex31_Repeticao\bin\Debug\Ex31_Repeticao.exe
+C:\desenv\csharp\Fatec\Ex31_Repeticao\Ex31_Repeticao\bin\Debug\Ex31_Repeticao.pdb
+C:\desenv\csharp\Fatec\Ex31_Repeticao\Ex31_Repeticao\obj\Debug\Ex31_Repeticao.exe
+C:\desenv\csharp\Fatec\Ex31_Repeticao\Ex31_Repeticao\obj\Debug\Ex31_Repeticao.pdb

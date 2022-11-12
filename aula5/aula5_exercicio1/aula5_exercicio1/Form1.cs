@@ -27,12 +27,13 @@ namespace aula5_exercicio1
 
             if (resultado >= 16)
             {
-                MessageBox.Show("Pode votar!");
                 txtResultado.Text = resultado.ToString();
+                MessageBox.Show("Pode votar!");
+               
             }else
             {
-                MessageBox.Show("Não poderá votar!!");
                 txtResultado.Text = resultado.ToString();
+                MessageBox.Show("Não poderá votar!!");
             }
         }
     }
