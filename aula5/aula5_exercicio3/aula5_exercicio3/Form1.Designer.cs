@@ -36,17 +36,18 @@ namespace aula5_exercicio3
             this.label5 = new System.Windows.Forms.Label();
             this.btnPorcentagem = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtNulos1 = new System.Windows.Forms.TextBox();
+            this.txtBrancos1 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.txtValidos1 = new System.Windows.Forms.TextBox();
             this.txtNulos = new System.Windows.Forms.TextBox();
             this.txtValidos = new System.Windows.Forms.TextBox();
             this.txtBrancos = new System.Windows.Forms.TextBox();
             this.txtPopulacao = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.txtBrancos1 = new System.Windows.Forms.TextBox();
-            this.txtNulos1 = new System.Windows.Forms.TextBox();
+            this.btnLimpar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -106,6 +107,7 @@ namespace aula5_exercicio3
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btnLimpar);
             this.groupBox1.Controls.Add(this.txtNulos1);
             this.groupBox1.Controls.Add(this.txtBrancos1);
             this.groupBox1.Controls.Add(this.label7);
@@ -126,10 +128,60 @@ namespace aula5_exercicio3
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(288, 321);
+            this.groupBox1.Size = new System.Drawing.Size(288, 385);
             this.groupBox1.TabIndex = 6;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Veja as estatísticas:";
+            // 
+            // txtNulos1
+            // 
+            this.txtNulos1.Location = new System.Drawing.Point(123, 249);
+            this.txtNulos1.Name = "txtNulos1";
+            this.txtNulos1.Size = new System.Drawing.Size(145, 26);
+            this.txtNulos1.TabIndex = 16;
+            // 
+            // txtBrancos1
+            // 
+            this.txtBrancos1.Location = new System.Drawing.Point(123, 281);
+            this.txtBrancos1.Name = "txtBrancos1";
+            this.txtBrancos1.Size = new System.Drawing.Size(145, 26);
+            this.txtBrancos1.TabIndex = 15;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(16, 286);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(76, 20);
+            this.label7.TabIndex = 14;
+            this.label7.Text = "Brancos: ";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(16, 224);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(65, 20);
+            this.label8.TabIndex = 12;
+            this.label8.Text = "Válidos:";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(16, 255);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(53, 20);
+            this.label9.TabIndex = 13;
+            this.label9.Text = "Nulos:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(73, 186);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(112, 20);
+            this.label6.TabIndex = 11;
+            this.label6.Text = "Porcentagens:";
             // 
             // txtValidos1
             // 
@@ -166,61 +218,21 @@ namespace aula5_exercicio3
             this.txtPopulacao.Size = new System.Drawing.Size(145, 26);
             this.txtPopulacao.TabIndex = 6;
             // 
-            // label6
+            // btnLimpar
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(73, 186);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(112, 20);
-            this.label6.TabIndex = 11;
-            this.label6.Text = "Porcentagens:";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(16, 286);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(76, 20);
-            this.label7.TabIndex = 14;
-            this.label7.Text = "Brancos: ";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(16, 224);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(65, 20);
-            this.label8.TabIndex = 12;
-            this.label8.Text = "Válidos:";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(16, 255);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(53, 20);
-            this.label9.TabIndex = 13;
-            this.label9.Text = "Nulos:";
-            // 
-            // txtBrancos1
-            // 
-            this.txtBrancos1.Location = new System.Drawing.Point(123, 281);
-            this.txtBrancos1.Name = "txtBrancos1";
-            this.txtBrancos1.Size = new System.Drawing.Size(145, 26);
-            this.txtBrancos1.TabIndex = 15;
-            // 
-            // txtNulos1
-            // 
-            this.txtNulos1.Location = new System.Drawing.Point(123, 249);
-            this.txtNulos1.Name = "txtNulos1";
-            this.txtNulos1.Size = new System.Drawing.Size(145, 26);
-            this.txtNulos1.TabIndex = 16;
+            this.btnLimpar.Location = new System.Drawing.Point(19, 328);
+            this.btnLimpar.Name = "btnLimpar";
+            this.btnLimpar.Size = new System.Drawing.Size(249, 35);
+            this.btnLimpar.TabIndex = 17;
+            this.btnLimpar.Text = "Limpar !";
+            this.btnLimpar.UseVisualStyleBackColor = true;
+            this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(312, 361);
+            this.ClientSize = new System.Drawing.Size(312, 409);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Eleições 2022!!";
@@ -250,6 +262,7 @@ namespace aula5_exercicio3
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button btnLimpar;
     }
 }
 

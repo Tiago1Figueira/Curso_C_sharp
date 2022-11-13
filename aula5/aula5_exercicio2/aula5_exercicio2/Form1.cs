@@ -34,7 +34,7 @@ namespace aula5_exercicio2
             }
             else
             {
-                MessageBox.Show("Os dois empataram!");a
+                MessageBox.Show("Os dois empataram!");
 
             }
 

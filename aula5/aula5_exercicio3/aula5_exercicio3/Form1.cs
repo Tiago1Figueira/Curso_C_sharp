@@ -28,10 +28,24 @@ namespace aula5_exercicio3
             nulos = (nulos / populacao) * 100;
             brancos = (brancos / populacao) * 100;
 
-            txtValidos1.Text = validos.ToString();
-            txtNulos1.Text = nulos.ToString();
-            txtBrancos1.Text = brancos.ToString();
+            txtValidos1.Text = validos + "%".ToString();
+            txtNulos1.Text = nulos + "%".ToString();
+            txtBrancos1.Text = brancos + "%".ToString();
 
+
+
+        }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            txtPopulacao.Text = "";
+            txtValidos.Text = "";
+            txtNulos.Text = "";
+            txtBrancos.Text = "";
+
+            txtValidos1.Text = "";
+            txtNulos1.Text = "";
+            txtBrancos1.Text = "";
         }
     }
 }
