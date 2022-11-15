@@ -1,0 +1,16 @@
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\bin\Debug\netcoreapp3.1\aula6_exercicio5.exe
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\bin\Debug\netcoreapp3.1\aula6_exercicio5.deps.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\bin\Debug\netcoreapp3.1\aula6_exercicio5.runtimeconfig.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\bin\Debug\netcoreapp3.1\aula6_exercicio5.runtimeconfig.dev.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\bin\Debug\netcoreapp3.1\aula6_exercicio5.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\bin\Debug\netcoreapp3.1\aula6_exercicio5.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.csproj.AssemblyReference.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.Form1.resources
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.csproj.GenerateResource.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.AssemblyInfoInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.AssemblyInfo.cs
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula6\aula6_exercicio5\aula6_exercicio5\obj\Debug\netcoreapp3.1\aula6_exercicio5.genruntimeconfig.cache

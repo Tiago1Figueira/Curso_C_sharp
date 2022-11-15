@@ -11,7 +11,7 @@ Atividades desenvolvimento 3
       
 03)   Faça um programa que capture duas notas do aluno, calcule a média aritmética e exiba a seguinte mensagem de acordo com a média do aluno: Se a média do aluno for menor ou igual a 5, o aluno estará “Reprovado”. Senão, se a média for maior que 5, o aluno estará “Aprovado”.
 
-04)   Faça um programa que receba como entrada um valor em centímetros e converta esse valor para metros e KMs.
+04)   Faça um programa que receba como entrada um valor em centímetros e converta esse valor para metros e KMs. 
 
 05)   Faça um programa que receba como entrada um valor numérico. Caso esse valor seja:
       a.    3: Escrever “Triângulo”.
@@ -21,6 +21,7 @@ Atividades desenvolvimento 3
       e.    Senão, escrever “Forma desconhecida”.
       
 06)   Faça um programa que indique se uma temperatura (Que tem a sua entrada em Celsius) está com o valor de zero absoluto. Se esse valor estiver nessa condição (Vide a regra em: https://brasilescola.uol.com.br/o-que-e/fisica/o-que-e-zero-absoluto.htm), deverá ser apresentado um label para o usuário com a seguinte mensagem "ZERO ABSOLUTO" e a fonte em azul. Senão, apresentar a mensagem "AINDA NÃO ESTÁ EM ZERO ABSOLUTO" e a fonte em vermelho.
+(Mudar com da fonte!!!!!)
 
 07)   Faça um programa que capture quatro notas do aluno, calcule e exiba a média aritmética e a seguinte mensagem de acordo com a média do aluno: Se a média do aluno for entre 0 e 4, apresentar “Reprovado”, maior que 4 e menor que 6, apresentar “Reprovado”, maior ou igual a 6 e menor ou igual a 10, apresentar “Aprovado”. Caso a média final fique fora da faixa entre 0 e 10, o programa não deverá apresentar o status e nem a média e exibir a seguinte mensagem “Notas inválidas”.
 
