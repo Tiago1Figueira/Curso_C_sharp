@@ -24,7 +24,7 @@ namespace aula6_exercicio4
             double metros, km;
 
             metros = centimetros / 100;
-            km = centimetros / 10000;
+            km = centimetros / 100000;
 
             txtMetros.Text = metros + "metros".ToString();
             txtKm.Text = km + "quilômetros".ToString();
