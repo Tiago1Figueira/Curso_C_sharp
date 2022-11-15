@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4.exercicio5\\aula4.exercicio5\\aula4.exercicio5.csproj",
+      "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4_exercicio5\\aula4.exercicio5\\aula4.exercicio5.csproj",
       "projectName": "aula4.exercicio5",
-      "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4.exercicio5\\aula4.exercicio5\\aula4.exercicio5.csproj",
+      "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4_exercicio5\\aula4.exercicio5\\aula4.exercicio5.csproj",
       "packagesPath": "C:\\Users\\TIAGO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4.exercicio5\\aula4.exercicio5\\obj\\",
+      "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula4\\aula4_exercicio5\\aula4.exercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TIAGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
