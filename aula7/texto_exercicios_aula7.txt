@@ -2,7 +2,7 @@
 
 Caros, seguem os exercícios a serem desenvolvidos em C#.
 
-27) Imprima todos os números de 1 até 100
+1) Imprima todos os números de 1 até 100
 
 28) Exiba todos os números de 255 até 555.
 

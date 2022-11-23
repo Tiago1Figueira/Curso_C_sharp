@@ -1,0 +1,14 @@
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\bin\Debug\netcoreapp3.1\aula7_ex5.exe
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\bin\Debug\netcoreapp3.1\aula7_ex5.deps.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\bin\Debug\netcoreapp3.1\aula7_ex5.runtimeconfig.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\bin\Debug\netcoreapp3.1\aula7_ex5.runtimeconfig.dev.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\bin\Debug\netcoreapp3.1\aula7_ex5.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\bin\Debug\netcoreapp3.1\aula7_ex5.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\obj\Debug\netcoreapp3.1\aula7_ex5.csproj.AssemblyReference.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\obj\Debug\netcoreapp3.1\aula7_ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\obj\Debug\netcoreapp3.1\aula7_ex5.AssemblyInfoInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\obj\Debug\netcoreapp3.1\aula7_ex5.AssemblyInfo.cs
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\obj\Debug\netcoreapp3.1\aula7_ex5.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\obj\Debug\netcoreapp3.1\aula7_ex5.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\obj\Debug\netcoreapp3.1\aula7_ex5.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula7\aula7_console\aula7_ex5\aula7_ex5\obj\Debug\netcoreapp3.1\aula7_ex5.genruntimeconfig.cache
