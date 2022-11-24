@@ -1,0 +1,9 @@
+C:\desenv\csharp\Fatec\Calculadora_Grafica\Calculadora_Grafica\bin\Debug\Calculadora_Grafica.exe.config
+C:\desenv\csharp\Fatec\Calculadora_Grafica\Calculadora_Grafica\bin\Debug\Calculadora_Grafica.exe
+C:\desenv\csharp\Fatec\Calculadora_Grafica\Calculadora_Grafica\bin\Debug\Calculadora_Grafica.pdb
+C:\desenv\csharp\Fatec\Calculadora_Grafica\Calculadora_Grafica\obj\Debug\Calculadora_Grafica.csprojResolveAssemblyReference.cache
+C:\desenv\csharp\Fatec\Calculadora_Grafica\Calculadora_Grafica\obj\Debug\Calculadora_Grafica.Form1.resources
+C:\desenv\csharp\Fatec\Calculadora_Grafica\Calculadora_Grafica\obj\Debug\Calculadora_Grafica.Properties.Resources.resources
+C:\desenv\csharp\Fatec\Calculadora_Grafica\Calculadora_Grafica\obj\Debug\Calculadora_Grafica.csproj.GenerateResource.Cache
+C:\desenv\csharp\Fatec\Calculadora_Grafica\Calculadora_Grafica\obj\Debug\Calculadora_Grafica.exe
+C:\desenv\csharp\Fatec\Calculadora_Grafica\Calculadora_Grafica\obj\Debug\Calculadora_Grafica.pdb
