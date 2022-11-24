@@ -1,0 +1,8 @@
+C:\desenv\csharp\Fatec\ValorCompra\ValorCompra\bin\Debug\ValorCompra.exe.config
+C:\desenv\csharp\Fatec\ValorCompra\ValorCompra\bin\Debug\ValorCompra.exe
+C:\desenv\csharp\Fatec\ValorCompra\ValorCompra\bin\Debug\ValorCompra.pdb
+C:\desenv\csharp\Fatec\ValorCompra\ValorCompra\obj\Debug\ValorCompra.Form1.resources
+C:\desenv\csharp\Fatec\ValorCompra\ValorCompra\obj\Debug\ValorCompra.Properties.Resources.resources
+C:\desenv\csharp\Fatec\ValorCompra\ValorCompra\obj\Debug\ValorCompra.csproj.GenerateResource.Cache
+C:\desenv\csharp\Fatec\ValorCompra\ValorCompra\obj\Debug\ValorCompra.exe
+C:\desenv\csharp\Fatec\ValorCompra\ValorCompra\obj\Debug\ValorCompra.pdb

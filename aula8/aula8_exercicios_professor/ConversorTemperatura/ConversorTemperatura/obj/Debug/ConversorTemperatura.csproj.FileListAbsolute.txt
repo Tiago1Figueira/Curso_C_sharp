@@ -1,0 +1,9 @@
+C:\desenv\csharp\Fatec\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe.config
+C:\desenv\csharp\Fatec\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe
+C:\desenv\csharp\Fatec\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.pdb
+C:\desenv\csharp\Fatec\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csprojResolveAssemblyReference.cache
+C:\desenv\csharp\Fatec\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.Form1.resources
+C:\desenv\csharp\Fatec\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.Properties.Resources.resources
+C:\desenv\csharp\Fatec\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.GenerateResource.Cache
+C:\desenv\csharp\Fatec\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.exe
+C:\desenv\csharp\Fatec\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.pdb

@@ -1,0 +1,8 @@
+C:\desenv\csharp\Fatec\MudarCor\MudarCor\bin\Debug\MudarCor.exe.config
+C:\desenv\csharp\Fatec\MudarCor\MudarCor\bin\Debug\MudarCor.exe
+C:\desenv\csharp\Fatec\MudarCor\MudarCor\bin\Debug\MudarCor.pdb
+C:\desenv\csharp\Fatec\MudarCor\MudarCor\obj\Debug\MudarCor.Form1.resources
+C:\desenv\csharp\Fatec\MudarCor\MudarCor\obj\Debug\MudarCor.Properties.Resources.resources
+C:\desenv\csharp\Fatec\MudarCor\MudarCor\obj\Debug\MudarCor.csproj.GenerateResource.Cache
+C:\desenv\csharp\Fatec\MudarCor\MudarCor\obj\Debug\MudarCor.exe
+C:\desenv\csharp\Fatec\MudarCor\MudarCor\obj\Debug\MudarCor.pdb

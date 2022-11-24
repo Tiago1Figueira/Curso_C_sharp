@@ -1,0 +1,6 @@
+C:\desenv\csharp\Fatec\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\desenv\csharp\Fatec\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\desenv\csharp\Fatec\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\desenv\csharp\Fatec\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\desenv\csharp\Fatec\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\desenv\csharp\Fatec\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
