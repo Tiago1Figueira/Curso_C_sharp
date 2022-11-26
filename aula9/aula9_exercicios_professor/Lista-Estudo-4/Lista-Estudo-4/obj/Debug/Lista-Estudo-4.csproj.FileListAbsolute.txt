@@ -1,0 +1,8 @@
+C:\desenv\csharp\Fatec\Lista-Estudo-4\Lista-Estudo-4\bin\Debug\Lista-Estudo-4.exe.config
+C:\desenv\csharp\Fatec\Lista-Estudo-4\Lista-Estudo-4\bin\Debug\Lista-Estudo-4.exe
+C:\desenv\csharp\Fatec\Lista-Estudo-4\Lista-Estudo-4\bin\Debug\Lista-Estudo-4.pdb
+C:\desenv\csharp\Fatec\Lista-Estudo-4\Lista-Estudo-4\obj\Debug\Lista_Estudo_4.Form1.resources
+C:\desenv\csharp\Fatec\Lista-Estudo-4\Lista-Estudo-4\obj\Debug\Lista_Estudo_4.Properties.Resources.resources
+C:\desenv\csharp\Fatec\Lista-Estudo-4\Lista-Estudo-4\obj\Debug\Lista-Estudo-4.csproj.GenerateResource.Cache
+C:\desenv\csharp\Fatec\Lista-Estudo-4\Lista-Estudo-4\obj\Debug\Lista-Estudo-4.exe
+C:\desenv\csharp\Fatec\Lista-Estudo-4\Lista-Estudo-4\obj\Debug\Lista-Estudo-4.pdb

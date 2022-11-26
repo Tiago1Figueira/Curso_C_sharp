@@ -1,0 +1,15 @@
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\bin\Debug\netcoreapp3.1\aula8_ex3.exe
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\bin\Debug\netcoreapp3.1\aula8_ex3.deps.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\bin\Debug\netcoreapp3.1\aula8_ex3.runtimeconfig.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\bin\Debug\netcoreapp3.1\aula8_ex3.runtimeconfig.dev.json
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\bin\Debug\netcoreapp3.1\aula8_ex3.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\bin\Debug\netcoreapp3.1\aula8_ex3.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\obj\Debug\netcoreapp3.1\aula8_ex3.Form1.resources
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\obj\Debug\netcoreapp3.1\aula8_ex3.csproj.GenerateResource.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\obj\Debug\netcoreapp3.1\aula8_ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\obj\Debug\netcoreapp3.1\aula8_ex3.AssemblyInfoInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\obj\Debug\netcoreapp3.1\aula8_ex3.AssemblyInfo.cs
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\obj\Debug\netcoreapp3.1\aula8_ex3.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\obj\Debug\netcoreapp3.1\aula8_ex3.dll
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\obj\Debug\netcoreapp3.1\aula8_ex3.pdb
+C:\Users\TIAGO\PycharmProjects\Curso_C_sharp\aula8\aula8_ex3\aula8_ex3\obj\Debug\netcoreapp3.1\aula8_ex3.genruntimeconfig.cache

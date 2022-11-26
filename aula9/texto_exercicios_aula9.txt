@@ -1,0 +1,36 @@
+SIGA CEETEPS: Programação em Microinformática
+
+Caros, seguem os exercícios a serem desenvolvidos em C# 
+
+01) (Windows Form) Faça um programa que calcule o valor de um abono especial por número de dependentes. O usuário deverá informar o valor bruto do salário e a quantidade de dependentes (Deverá ter um combobox contendo os seguintes elementos: 0; 1; 2; 3; 4; 5 ou mais). Para cada dependente (Até 4, calcular 3% de abono para cada dependente sobre o salário bruto; Se for 5 ou mais, calcular 15% de abono sobre o salário bruto). Depois, no final, exibir também o valor líquido do salário).
+
+02) (Windows Form) Faça um programa de cálculo de imposto sobre um produto. O programa deverá as seguintes entradas: Valor do produto e a quantidade vendida. 
+Além disso, terá um campo denominado "Origem" (Combobox contendo os seguintes elementos: Animal, vegetal, outros). Se a origem for animal, deverá ter um acréscimo de 15% no preço final, vegetal 10% e outros 4,3%.
+Também deverá ter um campo denominado "Embalagem especial" (Combobox contendo os seguintes elementos: Sim, Não). Se o valor escolhido for sim, deverá ter um acréscimo de 7,7% sobre o preço final. Como saída desse programa, deverá ter um campo com o valor bruto do produto, um campo com os eventuais acréscimos e um campo com o valor líquido do produto.
+
+03) (Command Line) Faça um programa que solicita um valor para o usuário de uma medida em KMs. O programa deverá converter essa medida em metros e centímetros.
+
+04) (Windows Form) Faça um programa que receba um valor de entrada em bits e faça a conversão desse valor para as seguintes medidas: Bytes, KBytes, Megabytes e Terabytes. Site para apoio: https://www.somatematica.com.br/curiosidades/c119.php
+
+05) (Command Line) Faça um programa para ler o salário mensal atual de um funcionário e o porcentual de reajuste. Calcular e apresentar o valor do novo salário. 
+
+06) (Windows Form) O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Levando em conta que o porcentual do distribuidor seja de 28% e os impostos de 45%, escrever um algoritmo para ler o custo de fábrica de um carro, calcular e apresentar o custo final ao consumidor.
+
+07) (Windows Form) Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas. Escrever um algoritmo que leia o número de carros por ele vendidos, o valor total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido. Calcule e apresente o salário final do vendedor.
+
+08) (Command Line) Escrever um algoritmo que lê um valor N inteiro e positivo e que calcula e escreve o valor de E:
+
+	E = 1 + 1 / 1! + 1 / 2! + 1 / 3! + 1 / N!
+
+09) (Command Line) A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber:  
+
+a) média do salário da população;
+b) média do número de filhos;
+c) maior salário;
+d) percentual de pessoas com salário até R$1000,00.
+
+O final da leitura de dados se dará com a entrada de um salário negativo. (Use o comando Do-While)  
+
+Att.
+
+Prof. Luís Felipe.
