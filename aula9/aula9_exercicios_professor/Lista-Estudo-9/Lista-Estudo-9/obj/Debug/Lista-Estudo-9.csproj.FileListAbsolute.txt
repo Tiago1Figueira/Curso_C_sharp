@@ -1,0 +1,6 @@
+C:\desenv\csharp\Fatec\Lista-Estudo-9\Lista-Estudo-9\bin\Debug\Lista-Estudo-9.exe.config
+C:\desenv\csharp\Fatec\Lista-Estudo-9\Lista-Estudo-9\bin\Debug\Lista-Estudo-9.exe
+C:\desenv\csharp\Fatec\Lista-Estudo-9\Lista-Estudo-9\bin\Debug\Lista-Estudo-9.pdb
+C:\desenv\csharp\Fatec\Lista-Estudo-9\Lista-Estudo-9\obj\Debug\Lista-Estudo-9.csprojResolveAssemblyReference.cache
+C:\desenv\csharp\Fatec\Lista-Estudo-9\Lista-Estudo-9\obj\Debug\Lista-Estudo-9.exe
+C:\desenv\csharp\Fatec\Lista-Estudo-9\Lista-Estudo-9\obj\Debug\Lista-Estudo-9.pdb

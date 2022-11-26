@@ -1,0 +1,5 @@
+C:\desenv\csharp\Fatec\Lista-Estudo-5\Lista-Estudo-5\bin\Debug\Lista-Estudo-5.exe.config
+C:\desenv\csharp\Fatec\Lista-Estudo-5\Lista-Estudo-5\bin\Debug\Lista-Estudo-5.exe
+C:\desenv\csharp\Fatec\Lista-Estudo-5\Lista-Estudo-5\bin\Debug\Lista-Estudo-5.pdb
+C:\desenv\csharp\Fatec\Lista-Estudo-5\Lista-Estudo-5\obj\Debug\Lista-Estudo-5.exe
+C:\desenv\csharp\Fatec\Lista-Estudo-5\Lista-Estudo-5\obj\Debug\Lista-Estudo-5.pdb

@@ -1,8 +1,15 @@
+01)Faça um programa que simule uma calculadora com dois valores de entrada e as seguintes operações aritméticas: Soma, subtração, multiplicação, divisão e potência. O programa deverá exibir o resultado da op. aritmética. 
 02) Faça um programa que calcule as parcelas de uma compra de acordo com a opção escolhida pelo usuário. Nesse programa, só deverá ter como entrada o valor total da compra. A saída será o valor com juros e o valor da parcela já acrescida dos juros.
 Seguem as regras a serem carregadas no combobox:
-    a) À vista: Desconto de 7,5%.
-    b) 2 vezes: Juros de 5% sobre o total da compra;
-    c) 3 vezes: Juros de 9,5% sobre o total da compra;
-    d) 4 vezes: Juros de 12,5% sobre o total da compra;
+   
+a) À vista: Desconto de 7,5%.
+   
+b) 2 vezes: Juros de 5% sobre o total da compra;
+    
+c) 3 vezes: Juros de 9,5% sobre o total da compra;
+    
+d) 4 vezes: Juros de 12,5% sobre o total da compra;
+
+03) Faça um programa no qual deverá ter carregado pelo menos 5 cores em um combobox. Caso o usuário escolha um elemento e escolher o botão "mudar", deverá ser alterado o fundo de cor do formulário. 
 
 04) Faça um programa que tenha como entrada uma temperatura. A medida de origem e de destino podem ser escolhidas em dois combobox com os seguintes valores: "Celsius", "Fahrenheit" e "Kelvin". Se os valores forem iguais, exibir uma mensagem indicando que os valores são iguais e que não poderá ser feita a conversão. Senão, efetuar a conversão entre os valores e exibir o resultado.
