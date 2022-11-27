@@ -8,15 +8,15 @@ Caros, seguem os exercícios a serem desenvolvidos em C#
 Além disso, terá um campo denominado "Origem" (Combobox contendo os seguintes elementos: Animal, vegetal, outros). Se a origem for animal, deverá ter um acréscimo de 15% no preço final, vegetal 10% e outros 4,3%.
 Também deverá ter um campo denominado "Embalagem especial" (Combobox contendo os seguintes elementos: Sim, Não). Se o valor escolhido for sim, deverá ter um acréscimo de 7,7% sobre o preço final. Como saída desse programa, deverá ter um campo com o valor bruto do produto, um campo com os eventuais acréscimos e um campo com o valor líquido do produto.
 
-03) (Command Line) Faça um programa que solicita um valor para o usuário de uma medida em KMs. O programa deverá converter essa medida em metros e centímetros.
+ok 03) (Command Line) Faça um programa que solicita um valor para o usuário de uma medida em KMs. O programa deverá converter essa medida em metros e centímetros. OK
 
-04) (Windows Form) Faça um programa que receba um valor de entrada em bits e faça a conversão desse valor para as seguintes medidas: Bytes, KBytes, Megabytes e Terabytes. Site para apoio: https://www.somatematica.com.br/curiosidades/c119.php
+ok 04) (Windows Form) Faça um programa que receba um valor de entrada em bits e faça a conversão desse valor para as seguintes medidas: Bytes, KBytes, Megabytes e Terabytes. Site para apoio: https://www.somatematica.com.br/curiosidades/c119.php 
 
-05) (Command Line) Faça um programa para ler o salário mensal atual de um funcionário e o porcentual de reajuste. Calcular e apresentar o valor do novo salário. 
+ok 05) (Command Line) Faça um programa para ler o salário mensal atual de um funcionário e o porcentual de reajuste. Calcular e apresentar o valor do novo salário. 
 
-06) (Windows Form) O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Levando em conta que o porcentual do distribuidor seja de 28% e os impostos de 45%, escrever um algoritmo para ler o custo de fábrica de um carro, calcular e apresentar o custo final ao consumidor.
+ok 06) (Windows Form) O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Levando em conta que o porcentual do distribuidor seja de 28% e os impostos de 45%, escrever um algoritmo para ler o custo de fábrica de um carro, calcular e apresentar o custo final ao consumidor.
 
-07) (Windows Form) Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas. Escrever um algoritmo que leia o número de carros por ele vendidos, o valor total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido. Calcule e apresente o salário final do vendedor.
+ok 07) (Windows Form) Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas. Escrever um algoritmo que leia o número de carros por ele vendidos, o valor total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido. Calcule e apresente o salário final do vendedor.
 
 08) (Command Line) Escrever um algoritmo que lê um valor N inteiro e positivo e que calcula e escreve o valor de E:
 
