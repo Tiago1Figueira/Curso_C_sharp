@@ -26,7 +26,7 @@ ok 07) (Windows Form) Uma revendedora de carros usados paga a seus funcionários 
 
 a) média do salário da população;
 b) média do número de filhos;
-c) maior salário;
+c) maior salário; 
 d) percentual de pessoas com salário até R$1000,00.
 
 O final da leitura de dados se dará com a entrada de um salário negativo. (Use o comando Do-While)  
@@ -34,3 +34,11 @@ O final da leitura de dados se dará com a entrada de um salário negativo. (Use o
 Att.
 
 Prof. Luís Felipe.
+
+1 + (1 / 24) = 1 
+
+
+
+
+
+

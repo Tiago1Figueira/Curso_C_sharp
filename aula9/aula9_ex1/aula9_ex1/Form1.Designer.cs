@@ -39,6 +39,7 @@ namespace aula9_ex1
             // 
             // cbDependentes
             // 
+            this.cbDependentes.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbDependentes.FormattingEnabled = true;
             this.cbDependentes.Items.AddRange(new object[] {
             "1",
@@ -98,7 +99,7 @@ namespace aula9_ex1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(207, 194);
+            this.ClientSize = new System.Drawing.Size(209, 186);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
