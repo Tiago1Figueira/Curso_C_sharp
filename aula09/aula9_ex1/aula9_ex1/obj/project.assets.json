@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula9\\aula9_ex1\\aula9_ex1\\aula9_ex1.csproj",
+      "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula09\\aula9_ex1\\aula9_ex1\\aula9_ex1.csproj",
       "projectName": "aula9_ex1",
-      "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula9\\aula9_ex1\\aula9_ex1\\aula9_ex1.csproj",
+      "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula09\\aula9_ex1\\aula9_ex1\\aula9_ex1.csproj",
       "packagesPath": "C:\\Users\\TIAGO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula9\\aula9_ex1\\aula9_ex1\\obj\\",
+      "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula09\\aula9_ex1\\aula9_ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TIAGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
