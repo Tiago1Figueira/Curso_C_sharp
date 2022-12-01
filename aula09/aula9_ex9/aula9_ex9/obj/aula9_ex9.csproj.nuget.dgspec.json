@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula9\\aula9_ex9\\aula9_ex9\\aula9_ex9.csproj": {}
+    "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula09\\aula9_ex9\\aula9_ex9\\aula9_ex9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula9\\aula9_ex9\\aula9_ex9\\aula9_ex9.csproj": {
+    "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula09\\aula9_ex9\\aula9_ex9\\aula9_ex9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula9\\aula9_ex9\\aula9_ex9\\aula9_ex9.csproj",
+        "projectUniqueName": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula09\\aula9_ex9\\aula9_ex9\\aula9_ex9.csproj",
         "projectName": "aula9_ex9",
-        "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula9\\aula9_ex9\\aula9_ex9\\aula9_ex9.csproj",
+        "projectPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula09\\aula9_ex9\\aula9_ex9\\aula9_ex9.csproj",
         "packagesPath": "C:\\Users\\TIAGO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula9\\aula9_ex9\\aula9_ex9\\obj\\",
+        "outputPath": "C:\\Users\\TIAGO\\PycharmProjects\\Curso_C_sharp\\aula09\\aula9_ex9\\aula9_ex9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TIAGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
