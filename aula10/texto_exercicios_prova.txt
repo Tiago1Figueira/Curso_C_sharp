@@ -1,0 +1,14 @@
+01) Faça um programa que receba um intervalo (um valor inicial e um valor final) e realize a somatória de todos os números, somatória dos pares e somatórias dos ímpares no intervalo definido pelo usuário. Ao final exibir o resultado da somatória total, somatória dos pares e somatória dos ímpares de forma individualizada.
+
+02) Faça um programa que tenha uma entrada numérica. Se esse valor for menor ou igual a zero, emitir uma mensagem para o usuário indicando que esse valor é inválido. Se o valor for válido, deverá ser feito o cálculo do fatorial desse número. Um fatorial é um número natural inteiro positivo, o qual é representado por n!. O fatorial de um número é calculado pela multiplicação desse número por todos os seus antecessores até chegar ao número 1. Por exemplo: 5! = 5 x 4 x 3 x 2 x 1 => 120.
+
+03) Faça um programa que receba como entrada dois valores. O primeiro valor é a base para uma tabuada. O segundo número equivale à quantas iterações serão feitas para essa tabuada. Por exemplo: Valor 1: 5; valor 2: 3. Assim, para cada conta efetuada, exibir uma linha no seguinte formato:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+04) Faça um programa para simular o cálculo de um notebook. Deverá ter como entrada os seguintes campos (Em um combobox):
+a. Memória RAM: 4GB; 8GB e 16GB. Valores: 250,00; 350,00; 599,00.
+b. Processador: I3; I5 e I7. Valores: 400,00; 700,00; 1049,00.
+c. Tamanho da tela: 13; 14 e 15. Valores: 300,00; 650,00; 999,00.
+Caso o pagamento seja à vista (Escolher em um combo), aplicar desconto de 7,5%.
+Todos os campos são obrigatórios (Se estiver algum em branco, informar ao usuário) e no final, apresentar o valor final em um label.
